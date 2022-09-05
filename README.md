@@ -10,14 +10,14 @@ Site para fazer cálculos básicos com matrizes
 - Decomposição QR
 - Aproximar autovalores e autovetores
 
-## Membros
-
-- Pedro Cipriano
-- Pedro Zara
-_ Lorrayne Somerlatte
-
 ## Técnologias
 
 - PostgreSQL
 - Django
 - React
+
+## Membros
+
+- Pedro Cipriano
+- Pedro Zara
+_ Lorrayne Somerlatte
