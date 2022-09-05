@@ -19,5 +19,3 @@ Site para fazer cálculos básicos com matrizes
 ## Membros
 
 - Pedro Cipriano
-- Pedro Zara
-- Lorrayne Somerlatte
