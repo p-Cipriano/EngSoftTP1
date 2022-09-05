@@ -10,7 +10,7 @@ Site para fazer cálculos básicos com matrizes
 - Decomposição QR
 - Aproximar autovalores e autovetores
 
-## Técnologias
+## Tecnologias
 
 - PostgreSQL
 - Django
