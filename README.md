@@ -20,4 +20,4 @@ Site para fazer cálculos básicos com matrizes
 
 - Pedro Cipriano
 - Pedro Zara
-_ Lorrayne Somerlatte
+- Lorrayne Somerlatte
